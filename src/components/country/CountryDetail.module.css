@@ -1,0 +1,34 @@
+/*Country Detail */
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.countryDetail {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leftColumn {
+  text-align: center;
+}
+
+.rightColumn {
+    margin-left: 40px;
+}
+
+.countryDetail > p {
+  padding: 20px;
+  padding-left: 0;
+}
+
+.coatOfArms {
+  width: 150px;
+}
+
+.footer {
+    margin-top: 40px;
+}

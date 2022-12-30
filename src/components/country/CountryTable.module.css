@@ -1,0 +1,24 @@
+.flag {
+  width: 100px;
+}
+
+/*Country Table */
+table {
+  padding: 30px;
+  width: auto;
+}
+
+thead,
+th {
+  height: 70px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.368);
+  text-align: left;
+}
+
+tbody,
+td {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.368);
+}
